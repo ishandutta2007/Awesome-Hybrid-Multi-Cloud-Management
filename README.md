@@ -48,9 +48,9 @@ The global Hybrid and Multi-Cloud Management market size is estimated at **$16.8
 
 ## ⚡ Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
-| Project 📦 | Stars ⭐ | Description 📝 |
+| Project 📦 | GitHub_Stars ⭐ | Description 📝 |
 | :--- | :--- | :--- |
 | **[HashiCorp Terraform](https://github.com/hashicorp/terraform)** | [<img src="https://img.shields.io/github/stars/hashicorp/terraform?style=social&color=white" alt="Terraform Stars"/>](https://github.com/hashicorp/terraform/stargazers) | Universal Infrastructure-as-Code (IaC) tool to provision and manage multi-cloud resources. |
 | **[Argo CD](https://github.com/argoproj/argo-cd)** | [<img src="https://img.shields.io/github/stars/argoproj/argo-cd?style=social&color=white" alt="Argo CD Stars"/>](https://github.com/argoproj/argo-cd/stargazers) | Declarative GitOps continuous delivery tool for multi-cluster Kubernetes environments. |
